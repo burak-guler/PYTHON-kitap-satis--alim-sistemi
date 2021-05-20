@@ -1,0 +1,9 @@
+tutunamayanlar,oğuz atay,1972,30
+tehlikeli oyunlar,oğuz atay,1973,30
+suç ve ceza,dostoyevski,1866,35
+sefiller,victor hugo,1862,23
+yalnız efe,ömer seyfettin,1919,23
+fatih harbiye,peyami safa,1935,35
+diyet,ömer seyfettin,1965,18
+yeni hayat,ziya gökalp,1918,20
+hayvan çiftliği,george orwell,1945,28
