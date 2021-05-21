@@ -23,8 +23,6 @@ def giris():
             print("! Kullanıcı adınız yanlış..")
         elif parola!=sifre:
             print("! Parolanız yanlış..")
-        elif kullanici_ad!=ad and  parola!=sifre:
-            print("Kullanıcı adınız ve Parolanız yanlış..")
 def menu():
     print("""       *****MENÜ*****
     1-Kitap sorgulama işlemi
